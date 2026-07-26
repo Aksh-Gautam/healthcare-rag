@@ -1,0 +1,67 @@
+---
+title: "COVID-19 Treatment Guidelines Summary"
+source: "NIH COVID-19 Treatment Guidelines Panel, WHO Living Guidelines"
+category: "Research Summaries"
+date: "2024-06-01"
+evidence_level: "Level A"
+specialty: "Infectious Disease"
+---
+
+# COVID-19 Treatment Guidelines
+
+## Risk Stratification
+### High-Risk Factors for Severe Disease:
+- Age ≥65 years
+- Immunocompromised status
+- Chronic kidney disease, cardiovascular disease, chronic lung disease, diabetes
+- Obesity (BMI ≥30)
+- Unvaccinated or incomplete vaccination
+
+## Outpatient Management
+
+### Mild-to-Moderate COVID-19 (High-Risk Patients):
+Priority order for antiviral therapy (initiate within 5 days of symptom onset):
+
+1. **Nirmatrelvir/ritonavir (Paxlovid)** — PREFERRED
+   - Dose: Nirmatrelvir 300 mg + ritonavir 100 mg orally twice daily for 5 days
+   - Renal adjustment: CrCl 30–59 mL/min: Nirmatrelvir 150 mg + ritonavir 100 mg BID
+   - Contraindicated: CrCl <30 mL/min, severe hepatic impairment
+   - CRITICAL drug interactions: CYP3A4 substrates (many statins, immunosuppressants, anticoagulants)
+   - 89% reduction in hospitalization/death (EPIC-HR trial)
+
+2. **Remdesivir** (3-day outpatient course)
+   - Day 1: 200 mg IV, Days 2–3: 100 mg IV daily
+   - 87% reduction in hospitalization/death (PINETREE trial)
+   - No significant drug interactions
+
+3. **Molnupiravir** (if others unavailable/contraindicated)
+   - 800 mg orally twice daily for 5 days
+   - 30% reduction in hospitalization/death (MOVe-OUT trial)
+   - Not recommended in pregnancy
+
+## Hospitalized Patients
+
+### Non-Severe (No supplemental oxygen needed):
+- Remdesivir 200 mg IV day 1, then 100 mg IV daily for 5 days
+- Dexamethasone NOT recommended if no oxygen requirement
+
+### Moderate (Supplemental oxygen needed):
+- Remdesivir + Dexamethasone 6 mg daily (IV or PO) for up to 10 days
+- RECOVERY trial: Dexamethasone reduced 28-day mortality by 18% overall, 36% in ventilated patients
+
+### Severe/Critical (High-flow O2, NIV, or mechanical ventilation):
+- Dexamethasone 6 mg daily for up to 10 days
+- Consider adding: Baricitinib 4 mg PO daily or Tocilizumab 8 mg/kg IV (single dose)
+  - For rapidly escalating oxygen needs or systemic inflammation (CRP ≥75 mg/L)
+- Remdesivir: Less clear benefit in mechanically ventilated patients
+
+## Adjunctive Therapies
+- Anticoagulation: Prophylactic-dose heparin for all hospitalized patients
+  - Therapeutic-dose heparin: Consider in non-ICU patients with elevated D-dimer
+- Prone positioning: Recommended for ARDS (awake proning for non-intubated patients)
+- Avoid: Hydroxychloroquine, ivermectin, azithromycin (no proven benefit)
+
+## Post-COVID Considerations
+- Long COVID: Persistent symptoms >4 weeks; no proven pharmacotherapy
+- Multidisciplinary rehabilitation recommended
+- Monitor for cardiac, pulmonary, neurological sequelae

@@ -1,0 +1,81 @@
+---
+title: "Atrial Fibrillation Management"
+source: "AHA/ACC/HRS Guideline for Management of AF 2023"
+category: "Clinical Guidelines"
+date: "2024-01-20"
+evidence_level: "Level A"
+specialty: "Cardiology"
+---
+
+# Atrial Fibrillation Management
+
+## Classification
+- Paroxysmal AF: Self-terminating, usually within 48 hours (max 7 days)
+- Persistent AF: Continuous AF lasting >7 days or requiring cardioversion
+- Long-standing persistent AF: Continuous AF >12 months
+- Permanent AF: AF accepted by patient and physician; no further rhythm control attempts
+
+## Stroke Risk Assessment — CHA₂DS₂-VASc Score
+- C: Congestive heart failure (+1)
+- H: Hypertension (+1)
+- A₂: Age ≥75 years (+2)
+- D: Diabetes mellitus (+1)
+- S₂: Prior stroke/TIA/thromboembolism (+2)
+- V: Vascular disease (prior MI, PAD, aortic plaque) (+1)
+- A: Age 65–74 years (+1)
+- Sc: Sex category — female (+1)
+
+### Anticoagulation Recommendations:
+- Score 0 (males) or 1 (females): No anticoagulation
+- Score 1 (males): Consider anticoagulation
+- Score ≥2 (males) or ≥3 (females): Anticoagulation recommended
+
+## Anticoagulation Options
+
+### Direct Oral Anticoagulants (DOACs) — PREFERRED over warfarin:
+1. **Apixaban (Eliquis)**: 5 mg BID (reduce to 2.5 mg BID if ≥2 of: age ≥80, weight ≤60 kg, Cr ≥1.5)
+2. **Rivaroxaban (Xarelto)**: 20 mg daily with evening meal (15 mg if CrCl 15–50)
+3. **Dabigatran (Pradaxa)**: 150 mg BID (75 mg BID if CrCl 15–30)
+4. **Edoxaban (Savaysa)**: 60 mg daily (30 mg if CrCl 15–50 or weight ≤60 kg)
+
+### Warfarin:
+- Reserved for: Mechanical heart valves, moderate-severe mitral stenosis
+- Target INR 2.0–3.0
+- Requires regular monitoring
+
+### Bleeding Risk Assessment (HAS-BLED):
+Addresses modifiable risk factors rather than contraindicating anticoagulation:
+- Hypertension, Abnormal renal/liver function, Stroke, Bleeding history
+- Labile INR, Elderly (>65), Drugs/alcohol
+
+## Rate Control
+- First-line: Beta-blocker (metoprolol, atenolol) or non-dihydropyridine CCB (diltiazem, verapamil)
+- Heart failure (HFrEF): Beta-blocker (avoid non-DHP CCB) ± digoxin
+- Lenient rate target: Resting HR <110 bpm (RACE II trial)
+- Strict rate target: Resting HR <80 bpm (consider if symptomatic)
+- Amiodarone: Last resort for rate control (significant toxicity)
+
+## Rhythm Control
+### Cardioversion:
+- Electrical: Synchronized DC cardioversion (biphasic 120–200J)
+- Pharmacological: Flecainide, propafenone (no structural heart disease); amiodarone, dofetilide (structural heart disease)
+- Anticoagulation: ≥3 weeks before cardioversion or TEE to rule out LA thrombus
+
+### Long-term Antiarrhythmic Drugs:
+- No structural heart disease: Flecainide, propafenone, sotalol, dronedarone
+- Heart failure/structural disease: Amiodarone or dofetilide
+- Dronedarone: Reduces cardiovascular hospitalization; avoid in severe HF or permanent AF
+
+### Catheter Ablation:
+- Recommended for symptomatic AF refractory to ≥1 antiarrhythmic drug
+- First-line therapy: Reasonable for paroxysmal AF (EARLY-AF, STOP AF First trials)
+- Pulmonary vein isolation (PVI) is the cornerstone technique
+- Success rate: 70–80% single procedure (paroxysmal AF)
+- CASTLE-AF: Ablation reduces mortality and HF hospitalization in HFrEF
+
+## Lifestyle and Risk Factor Management
+- Weight loss: ≥10% body weight reduces AF burden (LEGACY trial)
+- Exercise: Moderate regular exercise reduces AF recurrence
+- Alcohol reduction: Abstinence reduces AF recurrence (ALCOHOL-AF trial)
+- Sleep apnea treatment: CPAP reduces AF recurrence
+- Blood pressure optimization

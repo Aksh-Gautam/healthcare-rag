@@ -1,0 +1,77 @@
+---
+title: "Warfarin - Drug Information and Management"
+source: "CHEST Guidelines, FDA Prescribing Information"
+category: "Drug Information"
+date: "2024-01-01"
+evidence_level: "Level A"
+specialty: "Hematology"
+---
+
+# Warfarin (Coumadin)
+
+## Mechanism of Action
+Warfarin inhibits vitamin K epoxide reductase (VKORC1), blocking the recycling of vitamin K. This prevents the gamma-carboxylation of vitamin K-dependent clotting factors:
+- Factor II (prothrombin)
+- Factor VII
+- Factor IX
+- Factor X
+- Also inhibits protein C and protein S (natural anticoagulants)
+
+Onset of anticoagulant effect: 2–7 days (depends on half-lives of existing clotting factors). Factor VII has shortest half-life (~6 hours), but full effect requires depletion of Factor II (~60 hours).
+
+## Indications
+- Atrial fibrillation (stroke prevention) — though DOACs now preferred
+- Mechanical heart valves (ONLY oral anticoagulant approved)
+- Deep vein thrombosis (DVT) and pulmonary embolism (PE) treatment/prevention
+- Left ventricular thrombus
+- Antiphospholipid syndrome
+
+## Dosing and INR Targets
+### Initiation:
+- Starting dose: 5 mg daily (lower in elderly, malnourished, liver disease, genetic variants)
+- Pharmacogenomic dosing: Consider CYP2C9 and VKORC1 genotyping if available
+- Overlap with parenteral anticoagulant (heparin/LMWH) for minimum 5 days AND until INR ≥2.0 for ≥24 hours
+
+### INR Targets:
+- Most indications (AF, DVT/PE): INR 2.0–3.0
+- Mechanical mitral valve: INR 2.5–3.5
+- Mechanical aortic valve (newer generation): INR 2.0–3.0
+
+## Drug and Food Interactions (CRITICAL)
+### Drugs that INCREASE warfarin effect (↑ INR):
+- Amiodarone, fluconazole, metronidazole, TMP/SMX
+- Ciprofloxacin, fluoxetine, omeprazole
+- Acetaminophen (high doses >2g/day)
+
+### Drugs that DECREASE warfarin effect (↓ INR):
+- Rifampin (most potent inducer), carbamazepine, phenytoin
+- St. John's Wort, ginseng
+- Cholestyramine, sucralfate
+
+### Food Interactions:
+- Vitamin K-rich foods: Maintain CONSISTENT intake (not avoidance)
+  - High vitamin K: Kale, spinach, collard greens, broccoli, Brussels sprouts
+- Cranberry juice: May increase INR
+- Alcohol: Variable effect; binge drinking increases INR
+
+## Monitoring
+- INR monitoring: Every 2–3 days during initiation, then weekly, then every 4 weeks when stable
+- Time in therapeutic range (TTR): Goal ≥70%
+- More frequent monitoring with: illness, diet changes, new medications, alcohol changes
+
+## Reversal
+### Vitamin K (Phytonadione):
+- INR 4.5–10 (no bleeding): Hold warfarin; consider vitamin K 1–2.5 mg orally
+- INR >10 (no bleeding): Vitamin K 2.5–5 mg orally
+- Serious/life-threatening bleeding: IV vitamin K 10 mg slow infusion + 4-factor PCC (preferred) or FFP
+
+### 4-Factor Prothrombin Complex Concentrate (PCC):
+- Rapid reversal for major bleeding or urgent surgery
+- Contains factors II, VII, IX, X
+- Dose based on INR and weight
+
+## Adverse Effects
+- Bleeding (major bleeding rate: 1–3% per year)
+- Skin necrosis (rare; usually days 3–8; associated with protein C deficiency)
+- Purple toe syndrome (rare; cholesterol microembolization)
+- Teratogenic (pregnancy category X) — avoid in pregnancy

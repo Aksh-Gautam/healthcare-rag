@@ -1,0 +1,55 @@
+---
+title: "Acute Myocardial Infarction (STEMI) Treatment Protocol"
+source: "ACC/AHA STEMI Guidelines 2023"
+category: "Treatment Protocols"
+date: "2023-11-01"
+evidence_level: "Level A"
+specialty: "Cardiology"
+---
+
+# Acute ST-Elevation Myocardial Infarction (STEMI) Protocol
+
+## Initial Assessment (Door-to-ECG ≤10 minutes)
+- 12-lead ECG immediately upon arrival
+- STEMI criteria: ST elevation ≥1 mm in ≥2 contiguous leads, or new LBBB
+- Activate cardiac catheterization lab immediately
+
+## Immediate Management
+1. **Oxygen**: Only if SpO2 <90% (routine O2 not recommended)
+2. **Aspirin**: 162–325 mg chewed immediately (non-enteric coated)
+3. **P2Y12 inhibitor**: 
+   - Ticagrelor 180 mg loading dose (preferred), OR
+   - Clopidogrel 600 mg loading dose
+4. **Anticoagulation**: Unfractionated heparin (UFH) 60 units/kg IV bolus (max 4,000 units), then 12 units/kg/hr (max 1,000 units/hr)
+5. **Nitroglycerin**: 0.4 mg SL every 5 min x 3 for ongoing chest pain (avoid if SBP <90, RV infarction, or PDE5 inhibitor use within 24-48 hours)
+6. **Morphine**: 2–4 mg IV for pain not relieved by nitroglycerin (use cautiously)
+7. **Beta-blocker**: Metoprolol 5 mg IV x 3 (avoid if hypotensive, bradycardic, or signs of HF)
+
+## Primary PCI (Preferred Reperfusion Strategy)
+- Door-to-balloon time goal: ≤90 minutes
+- Transfer to PCI-capable center if door-to-balloon ≤120 minutes
+- Drug-eluting stent preferred over bare-metal stent
+- Radial artery access preferred over femoral
+
+## Fibrinolytic Therapy (If PCI not available within 120 minutes)
+- Door-to-needle time goal: ≤30 minutes
+- Tenecteplase (TNK): Weight-based single IV bolus
+  - <60 kg: 30 mg; 60–69 kg: 35 mg; 70–79 kg: 40 mg; 80–89 kg: 45 mg; ≥90 kg: 50 mg
+- Contraindications: Active bleeding, prior ICH, ischemic stroke within 3 months, suspected aortic dissection
+- Assess for reperfusion at 60–90 minutes; transfer for rescue PCI if unsuccessful
+
+## Post-PCI/Hospital Management
+- Dual antiplatelet therapy (DAPT): Aspirin + P2Y12 inhibitor for minimum 12 months
+- High-intensity statin: Atorvastatin 80 mg daily
+- ACE inhibitor: Within 24 hours (especially if anterior MI, HF, LVEF <40%)
+- Beta-blocker: Within 24 hours if hemodynamically stable
+- Aldosterone antagonist: If LVEF ≤40% + HF symptoms or diabetes
+- Echocardiography: Assess LV function before discharge
+
+## Secondary Prevention
+- Cardiac rehabilitation referral
+- Smoking cessation counseling
+- Blood pressure goal <130/80 mmHg
+- LDL goal <70 mg/dL (or ≥50% reduction)
+- HbA1c goal <7% for diabetic patients
+- Mediterranean or DASH diet

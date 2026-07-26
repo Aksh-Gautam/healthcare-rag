@@ -1,0 +1,83 @@
+---
+title: "Chronic Kidney Disease Management"
+source: "KDIGO Clinical Practice Guidelines 2024"
+category: "Clinical Guidelines"
+date: "2024-03-15"
+evidence_level: "Level A"
+specialty: "Nephrology"
+---
+
+# Chronic Kidney Disease (CKD) Management
+
+## Definition and Staging
+CKD is defined as abnormalities of kidney structure or function present for >3 months.
+
+### GFR Categories:
+- G1: Normal or high GFR (≥90 mL/min/1.73 m²)
+- G2: Mildly decreased (60–89)
+- G3a: Mildly to moderately decreased (45–59)
+- G3b: Moderately to severely decreased (30–44)
+- G4: Severely decreased (15–29)
+- G5: Kidney failure (<15 or dialysis)
+
+### Albuminuria Categories:
+- A1: Normal to mildly increased (<30 mg/g)
+- A2: Moderately increased (30–300 mg/g) — "microalbuminuria"
+- A3: Severely increased (>300 mg/g) — "macroalbuminuria"
+
+## Blood Pressure Management in CKD
+- Target: <120 mmHg systolic (SPRINT trial evidence for non-diabetic CKD)
+- For diabetic CKD: <130/80 mmHg
+- First-line: ACE inhibitor or ARB (especially with albuminuria ≥30 mg/g)
+- DO NOT combine ACE inhibitor + ARB
+
+## Pharmacotherapy to Slow Progression
+
+### RAAS Blockade:
+- ACE inhibitor or ARB: For all patients with albuminuria (A2 or A3)
+- Monitor potassium and creatinine within 2 weeks of initiation
+- Acceptable creatinine rise: ≤30% from baseline
+
+### SGLT2 Inhibitors (NEW CORNERSTONE):
+- Dapagliflozin 10 mg or Empagliflozin 10 mg daily
+- Indicated: CKD with eGFR ≥20 mL/min (can initiate) regardless of diabetes status
+- Benefits: Slows eGFR decline, reduces albuminuria, reduces HF hospitalizations
+- DAPA-CKD trial: 39% reduction in sustained eGFR decline or ESKD
+- EMPA-KIDNEY trial: 28% reduction in progression of kidney disease
+
+### Finerenone (Non-steroidal MRA):
+- For type 2 diabetes with CKD and albuminuria
+- Reduces kidney and cardiovascular events (FIDELIO-DKD, FIGARO-DKD trials)
+- Dose: 10–20 mg daily based on eGFR
+- Monitor potassium closely
+
+## Complication Management
+
+### Anemia:
+- Target hemoglobin: 10–11.5 g/dL (avoid >13 g/dL)
+- Iron supplementation first: Target ferritin 200–500 ng/mL, TSAT 20–30%
+- ESA therapy (epoetin alfa, darbepoetin): After iron optimization
+- HIF-PHI (roxadustat, daprodustat): Oral alternative to ESA
+
+### Mineral and Bone Disorder (CKD-MBD):
+- Phosphorus management: Dietary restriction, phosphate binders
+- Calcium: Avoid calcium-based binders if hypercalcemia or vascular calcification
+- Vitamin D: Supplement if 25(OH)D <30 ng/mL
+- PTH: Target varies by CKD stage; avoid severe hyperparathyroidism
+- Cinacalcet: For secondary hyperparathyroidism in dialysis patients
+
+### Metabolic Acidosis:
+- Oral sodium bicarbonate: If serum bicarbonate <22 mEq/L
+- Target bicarbonate: 22–26 mEq/L
+- Veverimer: Novel acid-reducing agent (emerging therapy)
+
+### Hyperkalemia:
+- Dietary potassium restriction
+- Sodium polystyrene sulfonate (Kayexalate) — short-term
+- Patiromer or sodium zirconium cyclosilicate: For chronic hyperkalemia management
+
+## Dialysis Planning
+- Refer to nephrologist: eGFR <30 mL/min
+- Vascular access planning: eGFR <25 mL/min (AV fistula preferred, 6 months before anticipated need)
+- Initiate dialysis: Based on symptoms, not arbitrary GFR threshold
+- Typical initiation: eGFR 5–10 mL/min with uremic symptoms

@@ -1,0 +1,74 @@
+---
+title: "Asthma Management Guidelines (GINA 2024)"
+source: "Global Initiative for Asthma (GINA) 2024 Report"
+category: "Clinical Guidelines"
+date: "2024-05-01"
+evidence_level: "Level A"
+specialty: "Pulmonology"
+---
+
+# Asthma Management Guidelines
+
+## Definition
+Asthma is a heterogeneous disease characterized by chronic airway inflammation, defined by history of respiratory symptoms (wheeze, shortness of breath, chest tightness, cough) that vary over time and in intensity, together with variable expiratory airflow limitation.
+
+## Diagnosis
+- Spirometry showing variable expiratory airflow limitation:
+  - FEV1/FVC ratio reduced (<0.75–0.80 in adults)
+  - Positive bronchodilator reversibility test: increase in FEV1 >12% and >200 mL from baseline
+- Peak expiratory flow (PEF) variability >10%
+- Positive bronchial challenge test (methacholine or exercise)
+
+## Severity Classification
+Step 1 — Mild Intermittent:
+- Symptoms <2 days/week, nighttime symptoms <2/month
+- FEV1 ≥80% predicted, PEF variability <20%
+
+Step 2 — Mild Persistent:
+- Symptoms >2 days/week but not daily
+- FEV1 ≥80% predicted, PEF variability 20–30%
+
+Step 3 — Moderate Persistent:
+- Daily symptoms, nighttime symptoms >1/week
+- FEV1 60–80% predicted, PEF variability >30%
+
+Step 4–5 — Severe Persistent:
+- Continuous symptoms, frequent nighttime symptoms
+- FEV1 <60% predicted, PEF variability >30%
+
+## Stepwise Treatment Approach
+
+Step 1 (Mild Intermittent):
+- Preferred: As-needed low-dose ICS-formoterol
+- Alternative: As-needed SABA with low-dose ICS taken whenever SABA is used
+
+Step 2 (Mild Persistent):
+- Preferred: Daily low-dose ICS (e.g., budesonide 200–400 mcg/day) + as-needed SABA
+- Alternative: As-needed low-dose ICS-formoterol
+
+Step 3 (Moderate Persistent):
+- Preferred: Low-dose ICS-LABA (e.g., fluticasone/salmeterol 100/50 mcg twice daily)
+- Alternative: Medium-dose ICS
+
+Step 4 (Severe Persistent):
+- Preferred: Medium/high-dose ICS-LABA
+- Add-on: Tiotropium, leukotriene modifier, or theophylline
+
+Step 5 (Severe Uncontrolled):
+- Preferred: High-dose ICS-LABA + LAMA (tiotropium)
+- Add-on: Biologic therapy (omalizumab, mepolizumab, dupilumab, benralizumab)
+- Consider: Low-dose oral corticosteroids
+
+## Acute Exacerbation Management
+- Oxygen: Maintain SpO2 94–98%
+- SABA: Salbutamol 4–10 puffs via MDI+spacer, repeated every 20 minutes for 1 hour
+- Systemic corticosteroids: Prednisolone 40–50 mg daily for 5–7 days
+- Ipratropium bromide: For severe exacerbations
+- Magnesium sulfate IV: For life-threatening exacerbations
+
+## Monitoring
+- Assess asthma control at every visit using validated tools (ACT, ACQ)
+- Review inhaler technique at every visit
+- Spirometry at least annually
+- Step down treatment after 3 months of good control
+- Written asthma action plan for all patients

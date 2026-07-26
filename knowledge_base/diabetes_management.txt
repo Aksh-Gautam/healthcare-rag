@@ -1,0 +1,69 @@
+---
+title: "Type 2 Diabetes Management (ADA Standards of Care)"
+source: "American Diabetes Association (ADA) Standards of Care 2024"
+category: "Clinical Guidelines"
+date: "2024-01-01"
+evidence_level: "Level A"
+specialty: "Endocrinology"
+---
+
+# Type 2 Diabetes Management
+
+## Diagnosis
+Type 2 diabetes is diagnosed by any of the following criteria:
+- Fasting plasma glucose (FPG) ≥126 mg/dL (7.0 mmol/L)
+- 2-hour plasma glucose ≥200 mg/dL (11.1 mmol/L) during oral glucose tolerance test (OGTT)
+- Hemoglobin A1c (HbA1c) ≥6.5%
+- Random plasma glucose ≥200 mg/dL with classic symptoms of hyperglycemia
+
+## Glycemic Targets
+- HbA1c target: <7.0% for most non-pregnant adults
+- More stringent target (<6.5%): For patients with short disease duration, long life expectancy, and no significant cardiovascular disease
+- Less stringent target (<8.0%): For patients with history of severe hypoglycemia, limited life expectancy, advanced complications
+
+## First-Line Therapy
+1. Metformin: First-line pharmacotherapy for type 2 diabetes
+   - Starting dose: 500 mg once or twice daily with meals
+   - Maximum dose: 2,000–2,550 mg/day
+   - Contraindicated in eGFR <30 mL/min/1.73 m²
+   - Monitor vitamin B12 levels with long-term use
+
+## Second-Line Therapy (Add to Metformin)
+Selection based on patient-specific factors:
+
+For patients with established ASCVD or high risk:
+- GLP-1 receptor agonist (liraglutide, semaglutide) with proven cardiovascular benefit
+- SGLT2 inhibitor (empagliflozin, dapagliflozin) with proven cardiovascular benefit
+
+For patients with heart failure:
+- SGLT2 inhibitor (regardless of HbA1c)
+
+For patients with CKD:
+- SGLT2 inhibitor (if eGFR adequate) or GLP-1 receptor agonist
+
+For patients needing weight management:
+- GLP-1 receptor agonist (semaglutide, tirzepatide) — significant weight loss benefit
+- SGLT2 inhibitor — modest weight loss
+
+For patients where cost is a major issue:
+- Sulfonylurea (glipizide, glimepiride) or thiazolidinedione (pioglitazone)
+
+## Insulin Therapy
+Indications for insulin:
+- Symptomatic hyperglycemia
+- HbA1c >10% or blood glucose ≥300 mg/dL
+- Type 1 diabetes features (ketosis)
+
+Basal insulin options:
+- Insulin glargine (Lantus): Once daily, usually at bedtime
+- Insulin detemir (Levemir): Once or twice daily
+- Starting dose: 10 units/day or 0.1–0.2 units/kg/day
+
+## Comprehensive Care
+- Blood pressure target: <130/80 mmHg
+- Lipids: Statin therapy for all patients aged 40–75 with diabetes
+- Aspirin: 75–162 mg/day for secondary prevention
+- Eye exam: Annual dilated eye exam
+- Foot exam: Comprehensive foot evaluation at least annually
+- Kidney monitoring: Annual urinary albumin and eGFR
+- Vaccinations: Influenza, pneumococcal, hepatitis B, COVID-19

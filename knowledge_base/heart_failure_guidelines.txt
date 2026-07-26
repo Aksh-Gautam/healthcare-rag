@@ -1,0 +1,73 @@
+---
+title: "Heart Failure Management (ACC/AHA Guidelines)"
+source: "American College of Cardiology/American Heart Association (ACC/AHA) 2022"
+category: "Clinical Guidelines"
+date: "2024-03-01"
+evidence_level: "Level A"
+specialty: "Cardiology"
+---
+
+# Heart Failure Management Guidelines
+
+## Classification
+Heart failure is classified by left ventricular ejection fraction (LVEF):
+- HFrEF (Heart Failure with Reduced EF): LVEF ≤40%
+- HFmrEF (Heart Failure with Mildly Reduced EF): LVEF 41–49%
+- HFpEF (Heart Failure with Preserved EF): LVEF ≥50%
+
+## Stages of Heart Failure
+- Stage A: At risk for HF (hypertension, diabetes, CAD, family history)
+- Stage B: Pre-HF (structural heart disease, elevated biomarkers, no symptoms)
+- Stage C: Symptomatic HF
+- Stage D: Advanced HF (refractory symptoms despite optimal therapy)
+
+## NYHA Functional Classification
+- Class I: No limitation of physical activity
+- Class II: Slight limitation; comfortable at rest, symptoms with ordinary activity
+- Class III: Marked limitation; comfortable at rest, symptoms with less-than-ordinary activity
+- Class IV: Unable to carry out any physical activity without discomfort; symptoms at rest
+
+## Guideline-Directed Medical Therapy (GDMT) for HFrEF
+
+### Four Pillars of Therapy (initiate simultaneously when possible):
+1. **ACE inhibitor/ARB or ARNI**: 
+   - Sacubitril/valsartan (Entresto) preferred over ACE inhibitor/ARB
+   - Starting dose: Sacubitril/valsartan 24/26 mg twice daily, titrate to 97/103 mg twice daily
+   
+2. **Beta-blocker** (evidence-based):
+   - Carvedilol: Start 3.125 mg twice daily, target 25 mg twice daily
+   - Metoprolol succinate: Start 12.5–25 mg daily, target 200 mg daily
+   - Bisoprolol: Start 1.25 mg daily, target 10 mg daily
+
+3. **Mineralocorticoid Receptor Antagonist (MRA)**:
+   - Spironolactone 25–50 mg daily or Eplerenone 25–50 mg daily
+   - Monitor potassium (contraindicated if K+ >5.0 mEq/L)
+   - Monitor renal function (avoid if eGFR <30 mL/min)
+
+4. **SGLT2 inhibitor**:
+   - Dapagliflozin 10 mg daily or Empagliflozin 10 mg daily
+   - Benefit regardless of diabetes status
+   - Reduces HF hospitalizations and cardiovascular death
+
+### Additional Therapies:
+- Diuretics: For volume overload/congestion (furosemide, bumetanide, torsemide)
+- Hydralazine/isosorbide dinitrate: For Black patients already on optimal therapy, or if ACEi/ARB/ARNI not tolerated
+- Ivabradine: If heart rate ≥70 bpm on maximum tolerated beta-blocker
+- Digoxin: May reduce hospitalizations (target level 0.5–0.9 ng/mL)
+
+## Device Therapy
+- ICD: Primary prevention if LVEF ≤35% despite ≥3 months GDMT, NYHA II–III, life expectancy >1 year
+- CRT: If LVEF ≤35%, NYHA II–IV, LBBB with QRS ≥150 ms on optimal GDMT
+
+## Management of HFpEF
+- SGLT2 inhibitors: Recommended (Class 2a recommendation)
+- Diuretics: For volume management
+- Manage comorbidities: Hypertension, atrial fibrillation, obesity, CAD
+- Exercise training: Improves functional capacity and quality of life
+
+## Monitoring
+- Monitor weight daily
+- BNP/NT-proBNP trends
+- Renal function and electrolytes regularly
+- Assess volume status at each visit
+- Cardiac rehabilitation referral

@@ -1,0 +1,67 @@
+---
+title: "Antibiotic Stewardship Principles and Practice"
+source: "CDC Core Elements, IDSA Guidelines"
+category: "Research Summaries"
+date: "2024-02-15"
+evidence_level: "Level B"
+specialty: "Infectious Disease"
+---
+
+# Antibiotic Stewardship Principles
+
+## Core Principles
+Antibiotic stewardship programs (ASPs) aim to optimize antimicrobial use to improve patient outcomes, reduce antimicrobial resistance, and decrease healthcare costs.
+
+## The Five Rights of Antibiotic Prescribing
+1. **Right drug**: Based on likely pathogen and local resistance patterns
+2. **Right dose**: Pharmacokinetic/pharmacodynamic optimization
+3. **Right route**: IV-to-oral transition when appropriate
+4. **Right duration**: Shortest effective duration
+5. **Right time**: Prompt initiation for serious infections; avoid unnecessary empiric therapy
+
+## Common Conditions and Recommended Durations
+
+### Community-Acquired Pneumonia (CAP):
+- Minimum 5 days (if clinically stable for ≥48 hours)
+- Typical regimen: Amoxicillin 1g TID or Amoxicillin-clavulanate 875/125 mg BID
+- Atypical coverage: Add azithromycin 500 mg day 1, then 250 mg days 2–5
+- Severe/ICU: Ceftriaxone 1g IV daily + azithromycin 500 mg IV daily
+
+### Urinary Tract Infections (UTI):
+- Uncomplicated cystitis: Nitrofurantoin 100 mg BID x 5 days (first-line) or TMP/SMX DS BID x 3 days
+- Complicated UTI/Pyelonephritis: Fluoroquinolone x 5–7 days or ceftriaxone 1g IV daily
+- Avoid fluoroquinolones for uncomplicated UTI (reserve for serious infections)
+
+### Skin and Soft Tissue Infections (SSTI):
+- Cellulitis (non-purulent): Cephalexin 500 mg QID x 5–7 days
+- Purulent SSTI/abscess: I&D + TMP/SMX DS BID or doxycycline 100 mg BID x 5–7 days
+- Severe: Vancomycin IV + piperacillin-tazobactam IV
+
+### Intra-Abdominal Infections:
+- Mild-moderate: Ceftriaxone + metronidazole or amoxicillin-clavulanate
+- Severe: Piperacillin-tazobactam or meropenem
+- Duration: 4 days post source control (STOP-IT trial)
+
+## Key Stewardship Interventions
+1. **Prospective audit and feedback**: Infectious disease review of antibiotic orders
+2. **Prior authorization**: Restrict broad-spectrum agents (carbapenems, vancomycin)
+3. **Antibiogram**: Facility-specific resistance data to guide empiric therapy
+4. **De-escalation**: Narrow spectrum based on culture results within 48–72 hours
+5. **IV-to-oral conversion**: Switch when clinically improving and tolerating oral intake
+6. **Procalcitonin-guided therapy**: Helps differentiate bacterial vs. viral infection; guides discontinuation
+
+## Antimicrobial Resistance Concerns
+### ESKAPE Pathogens:
+- Enterococcus faecium (VRE)
+- Staphylococcus aureus (MRSA)
+- Klebsiella pneumoniae (ESBL, CRE)
+- Acinetobacter baumannii (MDR)
+- Pseudomonas aeruginosa (MDR)
+- Enterobacter species (AmpC)
+
+### Strategies to Combat Resistance:
+- Avoid unnecessary antibiotic prescribing (esp. for viral infections)
+- Use narrow-spectrum agents when possible
+- Complete full courses (but avoid unnecessarily long courses)
+- Implement infection prevention measures (hand hygiene, isolation)
+- Surveillance cultures for MDR organisms in high-risk patients

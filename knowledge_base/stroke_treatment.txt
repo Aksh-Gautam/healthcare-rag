@@ -1,0 +1,68 @@
+---
+title: "Acute Ischemic Stroke Treatment Pathway"
+source: "AHA/ASA Guidelines for Early Management of Acute Ischemic Stroke 2023"
+category: "Treatment Protocols"
+date: "2023-09-01"
+evidence_level: "Level A"
+specialty: "Neurology"
+---
+
+# Acute Ischemic Stroke Treatment Pathway
+
+## Initial Assessment (Door-to-CT ≤25 minutes)
+- ABC assessment and stabilization
+- Establish IV access and draw blood (glucose, CBC, coagulation studies, troponin)
+- NIHSS (National Institutes of Health Stroke Scale) assessment
+- Non-contrast CT head STAT to rule out hemorrhage
+- CT angiography (CTA) of head and neck for large vessel occlusion (LVO)
+- Blood glucose: Treat if <60 mg/dL; treat hyperglycemia if >180 mg/dL
+- Blood pressure management: Permissive hypertension up to 220/120 mmHg (unless thrombolysis planned)
+
+## IV Thrombolysis (Alteplase/Tenecteplase)
+### Alteplase (tPA)
+- Window: Within 4.5 hours of symptom onset (or last known well)
+- Dose: 0.9 mg/kg IV (max 90 mg); 10% as bolus over 1 min, remaining 90% infused over 60 min
+- Door-to-needle goal: ≤60 minutes
+
+### Tenecteplase (TNK) — Emerging Alternative
+- Single IV bolus: 0.25 mg/kg (max 25 mg)
+- Advantages: Simpler administration, may be non-inferior to alteplase
+
+### Key Eligibility Criteria
+- Measurable neurological deficit
+- CT excludes hemorrhage
+- Age ≥18 years
+- Blood pressure <185/110 mmHg before treatment
+
+### Major Contraindications
+- Active internal bleeding
+- Platelet count <100,000
+- INR >1.7 or PT >15 seconds
+- Ischemic stroke or head trauma within 3 months
+- Major surgery within 14 days
+- GI or urinary bleeding within 21 days
+
+## Mechanical Thrombectomy
+- Indication: Large vessel occlusion (ICA, M1, and in select cases M2 or basilar)
+- Window: Up to 24 hours with favorable imaging (perfusion mismatch)
+- Standard window: Within 6 hours of symptom onset
+- Extended window (6–24 hours): If CT perfusion or MRI shows salvageable brain tissue (DAWN/DEFUSE 3 criteria)
+- Stent retriever or aspiration thrombectomy
+- Door-to-groin puncture goal: ≤90 minutes
+
+## Post-thrombolysis Care
+- Admit to stroke unit or ICU
+- Neurological checks every 15 minutes x 2 hours, then every 30 minutes x 6 hours, then hourly x 16 hours
+- BP management post-tPA: Maintain <180/105 mmHg for 24 hours
+- NO anticoagulants or antiplatelets for 24 hours post-tPA
+- Repeat CT at 24 hours before starting antiplatelet therapy
+- NPO until dysphagia screen completed
+
+## Secondary Prevention
+- Antiplatelet therapy: Aspirin 325 mg within 24–48 hours (after tPA clearance)
+  - Dual antiplatelet (aspirin + clopidogrel) for 21 days if minor stroke or high-risk TIA
+- Statin: High-intensity statin therapy (atorvastatin 40–80 mg)
+- Blood pressure: Target <130/80 mmHg after acute phase
+- Atrial fibrillation: Anticoagulation (DOACs preferred) if cardioembolic source
+- Carotid revascularization: Endarterectomy or stenting if ≥70% ipsilateral stenosis
+- Lifestyle: Smoking cessation, exercise, Mediterranean diet

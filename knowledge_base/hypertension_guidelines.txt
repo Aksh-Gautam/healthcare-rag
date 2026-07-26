@@ -1,0 +1,57 @@
+---
+title: "Hypertension Management Guidelines (JNC 8 Summary)"
+source: "Eighth Joint National Committee (JNC 8)"
+category: "Clinical Guidelines"
+date: "2024-01-15"
+evidence_level: "Level A"
+specialty: "Cardiology"
+---
+
+# Hypertension Management Guidelines
+
+## Definition and Classification
+Hypertension is defined as a sustained systolic blood pressure (SBP) ≥140 mmHg or diastolic blood pressure (DBP) ≥90 mmHg. The classification system includes:
+- Normal: SBP <120 mmHg and DBP <80 mmHg
+- Elevated: SBP 120-129 mmHg and DBP <80 mmHg
+- Stage 1 Hypertension: SBP 130-139 mmHg or DBP 80-89 mmHg
+- Stage 2 Hypertension: SBP ≥140 mmHg or DBP ≥90 mmHg
+
+## Treatment Thresholds
+- General population aged ≥60 years: Initiate treatment at SBP ≥150 mmHg or DBP ≥90 mmHg. Target: SBP <150 mmHg and DBP <90 mmHg.
+- General population aged <60 years: Initiate treatment at SBP ≥140 mmHg or DBP ≥90 mmHg. Target: SBP <140 mmHg and DBP <90 mmHg.
+- Patients with diabetes: Initiate treatment at SBP ≥140 mmHg or DBP ≥90 mmHg. Target: SBP <140 mmHg and DBP <90 mmHg.
+- Patients with CKD: Initiate treatment at SBP ≥140 mmHg or DBP ≥90 mmHg. Target: SBP <140 mmHg and DBP <90 mmHg.
+
+## First-Line Pharmacotherapy
+For the general non-Black population (including those with diabetes):
+1. Thiazide-type diuretic (e.g., chlorthalidone 12.5–25 mg daily)
+2. Calcium channel blocker (CCB) (e.g., amlodipine 5–10 mg daily)
+3. ACE inhibitor (e.g., lisinopril 10–40 mg daily)
+4. Angiotensin receptor blocker (ARB) (e.g., losartan 50–100 mg daily)
+
+For the general Black population (including those with diabetes):
+1. Thiazide-type diuretic
+2. Calcium channel blocker (CCB)
+
+For patients with CKD (regardless of race):
+- Initial therapy should include an ACE inhibitor or ARB to improve kidney outcomes.
+
+## Lifestyle Modifications
+- DASH diet: Rich in fruits, vegetables, whole grains, and low-fat dairy; reduced saturated fat
+- Sodium restriction: <2,400 mg/day (ideally <1,500 mg/day)
+- Physical activity: 90–150 minutes of aerobic exercise per week
+- Weight management: Maintain BMI 18.5–24.9 kg/m²
+- Alcohol limitation: ≤2 drinks/day for men, ≤1 drink/day for women
+- Smoking cessation
+
+## Combination Therapy
+If blood pressure goal is not reached within one month:
+- Increase dose of initial drug, OR
+- Add a second drug from the recommended classes
+- If goal not reached with two drugs, add a third drug
+- Do NOT combine ACE inhibitors with ARBs
+
+## Monitoring
+- Recheck blood pressure within 1 month of initiating or changing therapy
+- Once at goal, monitor every 3–6 months
+- Monitor serum creatinine and potassium 1–2 times per year

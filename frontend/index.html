@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Healthcare Knowledge Navigator — AI-powered medical RAG assistant with SHAP explainability for evidence-based clinical decision support.">
+    <title>Healthcare Knowledge Navigator | Medical RAG + XAI</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏥</text></svg>">
+</head>
+<body>
+    <div class="app-container">
+        <!-- ====== Header ====== -->
+        <header class="header">
+            <div class="header-left">
+                <div class="logo-icon" aria-hidden="true">🏥</div>
+                <div>
+                    <h1 class="header-title">Healthcare Knowledge Navigator</h1>
+                    <p class="header-subtitle">Medical RAG + SHAP Explainable AI</p>
+                </div>
+            </div>
+            <div class="header-right">
+                <div class="status-badge" id="gemini-status">
+                    <span class="status-dot" id="gemini-dot"></span>
+                    <span id="gemini-status-text">Checking...</span>
+                </div>
+                <div class="status-badge">
+                    <span>📚</span>
+                    <span id="docs-count">0 docs</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- ====== Tab Navigation ====== -->
+        <nav class="tab-nav" role="tablist">
+            <button class="tab-btn active" data-tab="search" role="tab" id="tab-search">🔍 Search & Analyze</button>
+            <button class="tab-btn" data-tab="documents" role="tab" id="tab-documents">📚 Knowledge Base</button>
+        </nav>
+
+        <!-- ====== Search Tab ====== -->
+        <div class="tab-content active" id="content-search" role="tabpanel">
+            <!-- Query Section -->
+            <section class="query-section">
+                <div class="search-container">
+                    <div class="search-input-wrapper">
+                        <span class="search-icon">🔬</span>
+                        <input
+                            type="text"
+                            class="search-input"
+                            id="query-input"
+                            placeholder="Ask a clinical question... e.g., 'What are the first-line treatments for hypertension?'"
+                            autocomplete="off"
+                        >
+                        <button class="search-btn" id="search-btn" onclick="submitQuery()">
+                            <span>Analyze</span>
+                            <span>→</span>
+                        </button>
+                    </div>
+                    <div class="filters-row">
+                        <select class="filter-select" id="category-filter">
+                            <option value="">All Categories</option>
+                        </select>
+                        <div class="shap-toggle active" id="shap-toggle" onclick="toggleShap()">
+                            <div class="toggle-switch"></div>
+                            <span>SHAP Explainability</span>
+                        </div>
+                    </div>
+                    <div class="suggested-queries" id="suggested-queries">
+                        <span class="suggested-query" onclick="useSuggestion(this)">What are first-line treatments for hypertension?</span>
+                        <span class="suggested-query" onclick="useSuggestion(this)">How is sepsis managed in the ICU?</span>
+                        <span class="suggested-query" onclick="useSuggestion(this)">What are the side effects of metformin?</span>
+                        <span class="suggested-query" onclick="useSuggestion(this)">Explain STEMI treatment protocol</span>
+                        <span class="suggested-query" onclick="useSuggestion(this)">What statins are used for cardiovascular prevention?</span>
+                        <span class="suggested-query" onclick="useSuggestion(this)">Compare DOACs vs warfarin for atrial fibrillation</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Loading State -->
+            <div class="loading-container hidden" id="loading-state">
+                <div class="dna-loader">
+                    <div class="strand"></div>
+                    <div class="strand"></div>
+                    <div class="strand"></div>
+                    <div class="strand"></div>
+                    <div class="strand"></div>
+                    <div class="strand"></div>
+                    <div class="strand"></div>
+                </div>
+                <p class="loading-text" id="loading-text">Retrieving clinical evidence...</p>
+            </div>
+
+            <!-- Empty State -->
+            <div class="empty-state" id="empty-state">
+                <div class="empty-icon">🩺</div>
+                <h2>Ask a Medical Question</h2>
+                <p>Query the knowledge base for evidence-based answers with citations, confidence scoring, and SHAP-powered explainability showing which documents contributed to the answer.</p>
+            </div>
+
+            <!-- Results -->
+            <div class="results-container hidden" id="results-container">
+                <!-- Main Column -->
+                <div class="results-main">
+                    <!-- Answer Panel -->
+                    <div class="glass-card answer-panel">
+                        <div class="glass-card-header">
+                            <span class="icon">💡</span>
+                            <span>Evidence-Based Answer</span>
+                        </div>
+                        <div class="answer-content" id="answer-content"></div>
+                        <div class="disclaimer" id="disclaimer"></div>
+                    </div>
+
+                    <!-- SHAP Panel -->
+                    <div class="glass-card shap-panel hidden" id="shap-panel">
+                        <div class="glass-card-header">
+                            <span class="icon">📊</span>
+                            <span>SHAP Document Attribution</span>
+                        </div>
+                        <div class="shap-chart-container">
+                            <canvas id="shap-chart"></canvas>
+                        </div>
+                        <div class="shap-explanation-text" id="shap-explanation"></div>
+                    </div>
+
+                    <!-- Sources Panel -->
+                    <div class="glass-card sources-panel">
+                        <div class="glass-card-header">
+                            <span class="icon">📄</span>
+                            <span>Retrieved Sources</span>
+                            <span class="section-count" id="sources-count"></span>
+                        </div>
+                        <div id="sources-list"></div>
+                    </div>
+                </div>
+
+                <!-- Sidebar -->
+                <div class="results-sidebar">
+                    <!-- Confidence Panel -->
+                    <div class="glass-card confidence-panel">
+                        <div class="glass-card-header">
+                            <span class="icon">🎯</span>
+                            <span>Confidence Score</span>
+                        </div>
+                        <div class="gauge-container">
+                            <svg class="gauge-svg" viewBox="0 0 160 100">
+                                <path class="gauge-track" d="M 20 80 A 60 60 0 0 1 140 80" />
+                                <path class="gauge-fill" id="gauge-fill" d="M 20 80 A 60 60 0 0 1 140 80" />
+                                <text class="gauge-value" id="gauge-value" x="80" y="78">0%</text>
+                                <text class="gauge-label" x="80" y="95">Confidence</text>
+                            </svg>
+                        </div>
+                        <div class="confidence-breakdown" id="confidence-breakdown"></div>
+                    </div>
+
+                    <!-- Citations Panel -->
+                    <div class="glass-card">
+                        <div class="glass-card-header">
+                            <span class="icon">📝</span>
+                            <span>Citations</span>
+                        </div>
+                        <div id="citations-list"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ====== Documents Tab ====== -->
+        <div class="tab-content" id="content-documents" role="tabpanel">
+            <div class="section-header">
+                <h2 class="section-title">Knowledge Base</h2>
+                <span class="section-count" id="kb-count">0 documents</span>
+            </div>
+            <div class="doc-grid" id="doc-grid"></div>
+            <div class="upload-area" id="upload-area" onclick="document.getElementById('file-input').click()">
+                <div class="upload-icon">📤</div>
+                <p class="upload-text">Drop a medical document here or click to upload</p>
+                <p class="upload-hint">Supports .txt files with optional YAML frontmatter metadata</p>
+                <input type="file" id="file-input" accept=".txt" class="hidden" onchange="handleFileUpload(event)">
+            </div>
+        </div>
+
+        <!-- ====== Footer ====== -->
+        <footer class="footer">
+            <p>Healthcare Knowledge Navigator v1.0 — Medical RAG + SHAP XAI — For clinical decision support only</p>
+        </footer>
+    </div>
+
+    <!-- Toast Container -->
+    <div class="toast-container" id="toast-container"></div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

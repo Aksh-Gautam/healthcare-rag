@@ -1,0 +1,69 @@
+---
+title: "Aspirin in Cardiovascular Disease"
+source: "AHA/ACC Clinical Practice Guidelines, FDA Label"
+category: "Drug Information"
+date: "2024-03-01"
+evidence_level: "Level A"
+specialty: "Cardiology"
+---
+
+# Aspirin (Acetylsalicylic Acid) in Cardiovascular Disease
+
+## Mechanism of Action
+Aspirin irreversibly inhibits cyclooxygenase-1 (COX-1), blocking thromboxane A2 synthesis in platelets. This results in:
+- Inhibition of platelet aggregation for the lifetime of the platelet (7–10 days)
+- Antithrombotic effect at low doses (75–325 mg)
+- Anti-inflammatory and analgesic effects at higher doses (>1g)
+
+## Cardiovascular Indications
+
+### Secondary Prevention (Strong recommendation):
+- Acute coronary syndrome (STEMI, NSTEMI, unstable angina)
+- Post-PCI/stent placement (part of DAPT)
+- Stable ischemic heart disease
+- History of ischemic stroke or TIA (non-cardioembolic)
+- Peripheral arterial disease
+
+### Primary Prevention (Weak/conditional):
+- NOT routinely recommended for primary prevention (2019 ACC/AHA guideline change)
+- May be considered in select patients aged 40–70 with elevated ASCVD risk (≥10% 10-year) AND low bleeding risk
+- NOT recommended for adults >70 years for primary prevention
+- NOT recommended if increased bleeding risk
+
+## Dosing
+- Acute MI/ACS: 162–325 mg chewed (non-enteric coated) immediately, then 81 mg daily
+- Secondary prevention: 75–100 mg once daily (81 mg in US)
+- Post-PCI with stent: 81 mg daily indefinitely (part of DAPT)
+- Ischemic stroke/TIA: 50–325 mg daily (commonly 81 mg)
+
+## Dual Antiplatelet Therapy (DAPT)
+Aspirin + P2Y12 inhibitor after ACS or PCI:
+- Minimum duration: 6–12 months after drug-eluting stent
+- Extended DAPT (>12 months): Consider if high ischemic risk and low bleeding risk
+- Shortened DAPT (1–3 months): Consider if high bleeding risk, followed by P2Y12 inhibitor monotherapy
+
+## Contraindications
+- Active peptic ulcer disease or GI bleeding
+- Known aspirin allergy or NSAID-exacerbated respiratory disease
+- Bleeding disorders (hemophilia, severe thrombocytopenia)
+- Children/adolescents with viral illness (Reye syndrome risk)
+
+## Adverse Effects
+- GI bleeding: Most common serious adverse effect (dose-related)
+- Intracranial hemorrhage: Small increased risk
+- GI upset, dyspepsia, nausea
+- Tinnitus (at higher doses)
+- Bruising
+- Aspirin-exacerbated respiratory disease (aspirin-sensitive asthma)
+
+## Drug Interactions
+- Warfarin/DOACs: Significantly increased bleeding risk
+- NSAIDs (ibuprofen): May antagonize antiplatelet effect of aspirin (take aspirin 30 min before ibuprofen)
+- SSRIs/SNRIs: Increased bleeding risk
+- Methotrexate: Reduced clearance at high aspirin doses
+- ACE inhibitors: May reduce antihypertensive effect
+
+## Aspirin Resistance
+- Prevalence: 5–45% depending on definition and assay
+- Consider platelet function testing if recurrent events on aspirin
+- Management: Ensure compliance, adequate dosing; switch to alternative antiplatelet

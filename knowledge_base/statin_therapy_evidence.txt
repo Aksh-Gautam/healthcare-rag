@@ -1,0 +1,77 @@
+---
+title: "Statin Therapy for Cardiovascular Prevention - Evidence Summary"
+source: "CTT Collaborators Meta-Analysis, ACC/AHA Guidelines"
+category: "Research Summaries"
+date: "2024-04-01"
+evidence_level: "Level A"
+specialty: "Cardiology"
+---
+
+# Statin Therapy for Cardiovascular Prevention
+
+## Overview
+Statins (HMG-CoA reductase inhibitors) are the cornerstone of lipid-lowering therapy. This summary covers major trial evidence supporting their use in primary and secondary cardiovascular prevention.
+
+## Key Clinical Evidence
+
+### CTT Meta-Analysis (Cholesterol Treatment Trialists)
+- Included 26 randomized trials with >170,000 patients
+- Each 1 mmol/L (39 mg/dL) reduction in LDL-C reduces:
+  - Major vascular events by 22%
+  - Major coronary events by 24%
+  - Stroke by 15%
+  - All-cause mortality by 10%
+- Benefit consistent across all subgroups (age, sex, diabetes status, baseline LDL)
+- Absolute benefit proportional to baseline cardiovascular risk
+
+### JUPITER Trial (Rosuvastatin 20mg)
+- 17,802 healthy individuals with LDL <130 mg/dL and hsCRP ≥2 mg/L
+- 44% reduction in major cardiovascular events
+- Demonstrated benefit even in those with "normal" LDL levels
+- NNT: 25 over 5 years for major cardiovascular event prevention
+
+### 4S Trial (Simvastatin 20-40mg)
+- 4,444 patients with prior MI or angina; LDL 188 mg/dL
+- 30% reduction in all-cause mortality
+- 42% reduction in coronary death
+- Landmark trial establishing mortality benefit
+
+### PROVE-IT TIMI 22 (Intensive vs. Moderate Statin)
+- Atorvastatin 80 mg vs. pravastatin 40 mg post-ACS
+- 16% further reduction in events with high-intensity statin
+- Established "lower is better" principle for LDL-C
+
+## Statin Intensity Classification
+
+### High-Intensity (lowers LDL ≥50%):
+- Atorvastatin 40–80 mg
+- Rosuvastatin 20–40 mg
+
+### Moderate-Intensity (lowers LDL 30–49%):
+- Atorvastatin 10–20 mg
+- Rosuvastatin 5–10 mg
+- Simvastatin 20–40 mg
+- Pravastatin 40–80 mg
+
+### Low-Intensity (lowers LDL <30%):
+- Simvastatin 10 mg
+- Pravastatin 10–20 mg
+
+## Indications per ACC/AHA Guidelines
+1. Clinical ASCVD (secondary prevention): High-intensity statin
+2. LDL ≥190 mg/dL: High-intensity statin (regardless of risk score)
+3. Diabetes, age 40–75: Moderate-intensity statin (high-intensity if 10-year risk ≥7.5%)
+4. 10-year ASCVD risk ≥7.5%, age 40–75: Moderate-to-high intensity statin
+
+## Adverse Effects
+- Myalgia (5–10%): Most common reason for discontinuation; true myopathy rare
+- Rhabdomyolysis: Very rare (<0.1%); risk increased with high doses, drug interactions
+- Hepatotoxicity: Transaminase elevation; routine monitoring no longer recommended
+- New-onset diabetes: Small increase (0.1–0.3% per year); benefits outweigh risk
+- Cognitive effects: No convincing evidence from trials; FDA label warning based on case reports
+
+## Non-Statin Therapies (Add-on if LDL not at goal)
+- Ezetimibe: Reduces LDL by additional 18–25%
+- PCSK9 inhibitors (evolocumab, alirocumab): Reduce LDL by 50–60%; proven cardiovascular outcomes benefit
+- Bempedoic acid: Reduces LDL by 15–25%; no myalgia risk
+- Inclisiran: siRNA therapy; reduces LDL by 50%; twice-yearly injection

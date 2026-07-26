@@ -1,0 +1,79 @@
+---
+title: "Metformin - Drug Information"
+source: "FDA Prescribing Information, UpToDate Drug Monograph"
+category: "Drug Information"
+date: "2024-02-01"
+evidence_level: "Level A"
+specialty: "Endocrinology"
+---
+
+# Metformin Hydrochloride
+
+## Classification
+- Class: Biguanide antihyperglycemic agent
+- Brand names: Glucophage, Glucophage XR, Fortamet, Glumetza, Riomet
+
+## Mechanism of Action
+Metformin works through multiple mechanisms:
+1. Decreases hepatic glucose production (primary mechanism) by inhibiting gluconeogenesis
+2. Increases insulin sensitivity in peripheral tissues (muscle, fat)
+3. Decreases intestinal absorption of glucose
+4. Does NOT stimulate insulin secretion (does not cause hypoglycemia when used alone)
+5. Activates AMP-activated protein kinase (AMPK) pathway
+
+## Indications
+- Type 2 diabetes mellitus (first-line therapy per ADA guidelines)
+- Prediabetes/diabetes prevention (off-label but evidence-based)
+- Polycystic ovary syndrome (PCOS) — off-label
+- Gestational diabetes (limited evidence)
+
+## Dosing
+### Immediate Release:
+- Starting: 500 mg orally twice daily with meals, OR 850 mg once daily with meals
+- Titration: Increase by 500 mg weekly or 850 mg every 2 weeks
+- Maximum: 2,550 mg/day in divided doses (850 mg TID)
+
+### Extended Release:
+- Starting: 500 mg once daily with evening meal
+- Titration: Increase by 500 mg weekly
+- Maximum: 2,000 mg once daily
+
+## Contraindications
+- eGFR <30 mL/min/1.73 m² (absolute)
+- eGFR 30–45 mL/min/1.73 m² (do not initiate; may continue with monitoring if already on)
+- Acute or chronic metabolic acidosis, including diabetic ketoacidosis
+- Known hypersensitivity to metformin
+
+## Adverse Effects
+### Common (>10%):
+- Gastrointestinal: Nausea, vomiting, diarrhea, flatulence, abdominal discomfort (up to 30%)
+- Metallic taste
+- These effects are dose-related and often resolve with time
+
+### Serious:
+- Lactic acidosis (rare but potentially fatal; risk 3–10 per 100,000 patient-years)
+  - Risk factors: renal impairment, hepatic disease, excessive alcohol, dehydration, sepsis
+- Vitamin B12 deficiency (10–30% of long-term users; monitor levels)
+
+## Drug Interactions
+- Alcohol: Increases risk of lactic acidosis
+- Iodinated contrast media: Hold metformin for 48 hours after contrast; restart after verifying renal function
+- Carbonic anhydrase inhibitors (topiramate, zonisamide): Increased risk of lactic acidosis
+- Cimetidine: Increases metformin levels (competes for renal tubular secretion)
+
+## Special Populations
+- Elderly: Start at lowest dose; monitor renal function regularly
+- Pregnancy: Category B; generally discontinued (insulin preferred)
+- Hepatic impairment: Avoid (increased risk of lactic acidosis)
+
+## Monitoring
+- HbA1c every 3–6 months
+- Renal function (eGFR) at least annually
+- Vitamin B12 levels annually with long-term use
+- CBC if symptoms of anemia develop
+
+## Benefits Beyond Glucose Control
+- Weight neutral to slight weight loss (1–3 kg)
+- No hypoglycemia risk as monotherapy
+- Possible cardiovascular benefit (UKPDS study)
+- Low cost; widely available as generic

@@ -1,0 +1,73 @@
+---
+title: "COPD Management Guidelines"
+source: "GOLD 2024 Report (Global Initiative for Chronic Obstructive Lung Disease)"
+category: "Clinical Guidelines"
+date: "2024-01-01"
+evidence_level: "Level A"
+specialty: "Pulmonology"
+---
+
+# COPD Management Guidelines
+
+## Definition
+COPD is a heterogeneous lung condition characterized by chronic respiratory symptoms (dyspnea, cough, sputum production) due to airway and/or alveolar abnormalities, usually caused by significant exposure to noxious particles or gases.
+
+## Diagnosis
+- Spirometry required: Post-bronchodilator FEV1/FVC <0.7 confirms airflow limitation
+- Symptoms: Dyspnea, chronic cough, sputum production
+- Risk factors: Smoking (primary), occupational exposures, biomass fuel, alpha-1 antitrypsin deficiency
+
+## GOLD Classification (Severity of Airflow Limitation)
+- GOLD 1 (Mild): FEV1 ≥80% predicted
+- GOLD 2 (Moderate): 50% ≤ FEV1 < 80% predicted
+- GOLD 3 (Severe): 30% ≤ FEV1 < 50% predicted
+- GOLD 4 (Very Severe): FEV1 <30% predicted
+
+## ABE Assessment Groups (2024 Update)
+- Group A: Low symptoms (mMRC 0–1, CAT <10), 0–1 moderate exacerbations
+- Group B: High symptoms (mMRC ≥2, CAT ≥10), 0–1 moderate exacerbations
+- Group E: Any symptoms, ≥2 moderate exacerbations or ≥1 leading to hospitalization
+
+## Pharmacotherapy
+
+### Group A:
+- Bronchodilator (short or long-acting): SABA (albuterol PRN) or SAMA (ipratropium PRN)
+
+### Group B:
+- LABA (salmeterol, formoterol, indacaterol, olodaterol) OR
+- LAMA (tiotropium, umeclidinium, glycopyrronium)
+- If persistent dyspnea: LABA + LAMA combination
+
+### Group E:
+- LABA + LAMA combination (preferred initial therapy)
+- If blood eosinophils ≥300 cells/μL: Consider LABA + LAMA + ICS (triple therapy)
+- Triple therapy options: Fluticasone/umeclidinium/vilanterol (Trelegy) or budesonide/glycopyrrolate/formoterol (Breztri)
+- IMPACT trial: Triple therapy reduced exacerbations by 15% and mortality by 28% vs. LAMA/LABA
+
+### ICS Considerations:
+- CONSIDER adding ICS if: Blood eosinophils ≥300, history of asthma, ≥2 moderate exacerbations/year
+- AVOID ICS if: Repeated pneumonia, blood eosinophils <100, mycobacterial infection history
+
+## Non-Pharmacological Management
+- Smoking cessation: MOST important intervention (reduces FEV1 decline)
+- Pulmonary rehabilitation: For all patients with significant dyspnea (mMRC ≥2)
+- Vaccinations: Influenza, pneumococcal (PCV20), COVID-19, Tdap, RSV (age ≥60)
+- Oxygen therapy: If PaO2 ≤55 mmHg or SpO2 ≤88% at rest (LTOT improves survival)
+- NIV: For chronic hypercapnic respiratory failure (PaCO2 ≥52 mmHg)
+
+## Acute Exacerbation (AECOPD) Management
+- SABA: Albuterol 2.5 mg nebulized every 1–4 hours
+- Systemic corticosteroids: Prednisone 40 mg daily for 5 days (REDUCE trial)
+- Antibiotics: If purulent sputum or requiring mechanical ventilation
+  - Mild: Amoxicillin-clavulanate, azithromycin, or doxycycline
+  - Severe/Pseudomonas risk: Fluoroquinolone or piperacillin-tazobactam
+- Oxygen: Target SpO2 88–92% (avoid hyperoxia → CO2 retention)
+- NIV: First-line for acute hypercapnic respiratory failure (pH 7.25–7.35)
+- Intubation: If pH <7.25, severe hypoxemia, or respiratory arrest
+
+## Monitoring
+- Spirometry at least annually
+- Assess symptom burden (CAT, mMRC) at every visit
+- Exacerbation history review
+- Inhaler technique assessment
+- Comorbidity screening: Cardiovascular disease, osteoporosis, depression, lung cancer

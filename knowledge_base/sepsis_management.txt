@@ -1,0 +1,65 @@
+---
+title: "Sepsis and Septic Shock Management (Surviving Sepsis Campaign)"
+source: "Surviving Sepsis Campaign Guidelines 2021"
+category: "Treatment Protocols"
+date: "2023-06-01"
+evidence_level: "Level A"
+specialty: "Critical Care"
+---
+
+# Sepsis and Septic Shock Management
+
+## Definitions
+- **Sepsis**: Life-threatening organ dysfunction caused by a dysregulated host response to infection. Defined as suspected infection + acute increase in SOFA score ≥2.
+- **Septic Shock**: Sepsis with persistent hypotension requiring vasopressors to maintain MAP ≥65 mmHg AND serum lactate >2 mmol/L despite adequate fluid resuscitation.
+
+## Quick SOFA (qSOFA) Screening
+Bedside screening for sepsis (≥2 criteria suggests higher mortality risk):
+- Respiratory rate ≥22/min
+- Altered mentation (GCS <15)
+- Systolic blood pressure ≤100 mmHg
+
+## Hour-1 Bundle (Initiate within 1 hour)
+1. **Measure lactate level**: Remeasure within 2–4 hours if initial lactate >2 mmol/L
+2. **Obtain blood cultures**: Before administering antibiotics (at least 2 sets: 1 aerobic + 1 anaerobic from 2 different sites)
+3. **Administer broad-spectrum antibiotics**: 
+   - Community-acquired: Piperacillin-tazobactam 4.5g IV OR meropenem 1g IV
+   - Hospital-acquired/MRSA risk: Add vancomycin 25–30 mg/kg IV loading dose
+   - Suspected atypical: Add azithromycin 500 mg IV
+4. **Begin rapid fluid resuscitation**: 30 mL/kg crystalloid (Lactated Ringer's preferred over normal saline) for hypotension or lactate ≥4 mmol/L
+5. **Apply vasopressors**: If hypotensive during or after fluid resuscitation, target MAP ≥65 mmHg
+
+## Vasopressor Therapy
+First-line: **Norepinephrine** 0.1–0.5 mcg/kg/min (preferred)
+Second-line: Add **vasopressin** 0.03 units/min (when norepinephrine dose is 0.25–0.5 mcg/kg/min)
+Third-line: Add **epinephrine** 0.1–0.5 mcg/kg/min
+- Central venous access preferred but peripheral acceptable initially
+- Arterial line for continuous BP monitoring
+
+## Corticosteroids
+- **Hydrocortisone 200 mg/day IV** (50 mg IV q6h or continuous infusion)
+- Indicated when adequate fluid resuscitation and vasopressor therapy fail to restore hemodynamic stability
+- Duration: Until vasopressors are discontinued, then taper
+
+## Source Control
+- Identify and control the source of infection within 6–12 hours
+- Drain abscesses, debride infected necrotic tissue, remove infected devices
+- Choose the least invasive effective intervention
+
+## Fluid Management After Resuscitation
+- Use dynamic measures to guide fluid responsiveness (pulse pressure variation, passive leg raise)
+- Avoid fluid overload; transition to conservative fluid strategy once hemodynamically stable
+- Target neutral fluid balance by day 3
+
+## Antibiotic Management
+- Reassess antimicrobial therapy daily for de-escalation
+- Procalcitonin-guided de-escalation if available
+- Typical duration: 7–10 days (shorter courses may be appropriate)
+- Longer courses for: endocarditis, osteomyelitis, undrainable abscesses
+
+## Monitoring
+- Lactate clearance (target ≥10% decrease per 2 hours)
+- Urine output ≥0.5 mL/kg/hr
+- Mean arterial pressure ≥65 mmHg
+- Central venous oxygen saturation (ScvO2) ≥70%
+- Serial organ function assessment (SOFA score)
